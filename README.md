@@ -58,8 +58,6 @@ After you're finished please remove all the comments and instructions!
 
 -npm
 
--html
-
 -css
 
 -javascript
@@ -91,9 +89,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[UI developed]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
