@@ -49,7 +49,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To Do list <a name="about-project"></a>
+# 📖 Magic Calc <a name="about-project"></a>
 
 **Magic Calc** is a website that you can solve math problems.
 
@@ -67,6 +67,8 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 - **[UI developed]**
+
+- **[Calculator functional]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +163,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Functional calculator]**
+- [ ] **[New pages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
