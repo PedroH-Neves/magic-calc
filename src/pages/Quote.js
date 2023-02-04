@@ -1,9 +1,10 @@
 import React from 'react';
+import './Quote.css';
 
 const Quote = () => (
-  <div>
+  <div className="Quote-div">
     <p>
-      Hello I am a quote page
+      “God created everything by number, weight, and measure.” — Isaac Newton
     </p>
   </div>
 );

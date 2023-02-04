@@ -1,3 +1,7 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
 #calculator {
   margin: 10% 30%;
 }
