@@ -6,6 +6,12 @@
   margin: 10% 30%;
 }
 
+.calculator-title {
+  font-size: 30px;
+  position: absolute;
+  margin-left: 5%;
+}
+
 #calculator-display {
   display: grid;
   grid-template-rows: 50px;

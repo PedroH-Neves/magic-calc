@@ -16,7 +16,7 @@ const NavBar = () => (
           Calculator
         </NavLink>
       </li>
-      <li className="navBar-item">
+      <li>
         <NavLink to="/Quote">
           Quote
         </NavLink>
